@@ -17,20 +17,22 @@ This series will cover:
 ## ▶️ Video Tutorials
 Each topic comes with an in-depth **YouTube tutorial** where I explain concepts step by step.
 
-🎥 Watch the full series here: 
+🎥 Watch the full series here: [Geospatial Python Series](https://www.youtube.com/playlist?list=PLPBWT_CJ5QhLkM4sXXqvhzPyFz5-uo3By)
 
 ## 🔗 GitHub Repository
-Find all code examples and notebooks in the repo: 
+Find all code examples and notebooks in the repo: [Geospatial Python Series](https://github.com/tommyscodebase/Geospatial_Python_Series)
 
 ## 🚀 Get Started
 Clone the repository and install dependencies:
 ```bash
 # Clone the repository
-git clone 
-cd 
+git clone https://github.com/tommyscodebase/Geospatial_Python_Series.git
+cd Geospatial_Python_Series
 
 # Install required packages
-pip install -r requirements.txt
+conda create env -n geospatial
+conda activate geospatial
+conda install -r requirements.txt
 ```
 
 ## 📢 Stay Updated
