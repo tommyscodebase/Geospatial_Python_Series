@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Point 1", "desc": "Description 1" }, "geometry": { "type": "Point", "coordinates": [ 1.0, 1.0 ] } },
+{ "type": "Feature", "properties": { "name": "Point 2", "desc": "Description 2" }, "geometry": { "type": "Point", "coordinates": [ 2.0, 2.0 ] } },
+{ "type": "Feature", "properties": { "name": "Point 3", "desc": "Description 3" }, "geometry": { "type": "Point", "coordinates": [ 3.0, 3.0 ] } }
+]
+}
