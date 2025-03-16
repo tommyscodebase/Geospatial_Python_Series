@@ -1,6 +1,8 @@
 altair
 click-plugins
 cligj
+cartopy
+contextily
 et-xmlfile
 Fiona
 folium
@@ -11,6 +13,7 @@ jupyter
 jupyterlab
 mapclassify
 matplotlib
+matplotlib_scalebar
 mistune
 munch
 networkx

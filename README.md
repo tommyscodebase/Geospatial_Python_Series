@@ -37,6 +37,7 @@ conda install -r requirements.txt
 
 ## 📢 Stay Updated
 Follow me for more geospatial content:
+- YouTube: [Tommy's Codebase](https://www.youtube.com/@tommys_codebase)
 - LinkedIn: [Thomas Burns Botchwey](https://www.linkedin.com/in/tbbotchwey)
 - GitHub: [Tommy's Codebase](https://github.com/tommyscodebase/)
 
